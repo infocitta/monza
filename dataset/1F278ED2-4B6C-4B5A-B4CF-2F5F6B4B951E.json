@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "1F278ED2-4B6C-4B5A-B4CF-2F5F6B4B951E",
+  "Name": "L. Scienze Umane - Porta",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA POLIZIANO 1 MONZA",
+      "Latitude": "45.5789711",
+      "Longitude": "9.30339404"
+    }
+  ],
+  "Contacts": []
+}

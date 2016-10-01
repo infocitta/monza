@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "13350347-D25D-4D19-81CC-8AD170D8A87C",
+  "Name": "Primaria - Alfieri",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola primaria",
+      "Alias": "elementare"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA S. FRUTTUOSO 15 MONZA",
+      "Latitude": "45.57087496",
+      "Longitude": "9.24403757"
+    }
+  ],
+  "Contacts": []
+}

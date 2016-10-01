@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "DB7141EA-323A-4BBF-BD12-75A153532A2B",
+  "Name": "Elementare  De Amicis",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola primaria",
+      "Alias": "elementare"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA MATTEOTTI 1 MONZA",
+      "Latitude": "45.58586076",
+      "Longitude": "9.2772794"
+    }
+  ],
+  "Contacts": []
+}

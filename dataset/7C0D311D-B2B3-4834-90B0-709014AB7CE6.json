@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "7C0D311D-B2B3-4834-90B0-709014AB7CE6",
+  "Name": "BUM BUM",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA WAGNER RICHARD  14 MONZA",
+      "Latitude": "45.59704749",
+      "Longitude": "9.25579106"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2328603",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "sabrinavene@gmail.com",
+      "Type": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "ED0B3748-3C92-4F6E-97E6-0FDD09B5F219",
+  "Name": "Scuola Dell'infanzia Parrocchiale San Rocco",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTE SANTO 2 MONZA",
+      "Latitude": "45.56289112",
+      "Longitude": "9.26520846"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0392180078",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "scuolabimbi.srmonza@alice.it",
+      "Type": 1
+    }
+  ]
+}

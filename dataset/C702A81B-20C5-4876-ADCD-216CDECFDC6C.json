@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "C702A81B-20C5-4876-ADCD-216CDECFDC6C",
+  "Name": "CLUB DEGLI ALVEARI",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA RANDACCIO G.  11 MONZA",
+      "Latitude": "45.58729786",
+      "Longitude": "9.28392935"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039  2328692",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039 2494530",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "annapaola.osella@tiscali.it",
+      "Type": 1
+    }
+  ]
+}

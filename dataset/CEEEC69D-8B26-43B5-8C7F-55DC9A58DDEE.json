@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "CEEEC69D-8B26-43B5-8C7F-55DC9A58DDEE",
+  "Name": "L. Classico - Zucchi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA TRENTO E TRIESTE 6 MONZA",
+      "Latitude": "45.58354029",
+      "Longitude": "9.273793"
+    }
+  ],
+  "Contacts": []
+}

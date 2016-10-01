@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "E4465697-EAD4-428F-A431-0ADCBCF57254",
+  "Name": "ASILO NIDO CEDERNA",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA POLIZIANO ANGELO  2 MONZA",
+      "Latitude": "45.58022574",
+      "Longitude": "9.30375457"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039  830312",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039  2028133",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "nidocederna@comune.monza.it",
+      "Type": 1
+    }
+  ]
+}

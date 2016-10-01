@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "B5A0A49F-C448-4AF2-BF94-8ABB1A2F5744",
+  "Name": "Secondaria Primo Grado - Confalonieri",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di primo grado",
+      "Alias": "medie"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA CORREGGIO  MONZA",
+      "Latitude": "45.58193317",
+      "Longitude": "9.299802"
+    }
+  ],
+  "Contacts": []
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "DA2C3B9F-2F81-41E6-A7A3-2A67A4A49C94",
+  "Name": "LE MARGHERITINE",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTE BARRO  6 MONZA",
+      "Latitude": "45.59054268",
+      "Longitude": "9.24397852"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 790822",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039 2144311",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@scuolatonoli.it",
+      "Type": 1
+    }
+  ]
+}

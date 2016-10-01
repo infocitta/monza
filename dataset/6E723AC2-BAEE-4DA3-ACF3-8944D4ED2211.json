@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "6E723AC2-BAEE-4DA3-ACF3-8944D4ED2211",
+  "Name": "SPAZIO BIMBO",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA BUCCARI  9 MONZA",
+      "Latitude": "45.58087249",
+      "Longitude": "9.28113395"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 835391",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@spaziobimbo.org",
+      "Type": 1
+    }
+  ]
+}

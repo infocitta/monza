@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "7E63302F-E5EC-400B-A8DE-0A4052F0B777",
+  "Name": "L.Linguistico - Porta",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DELLA GUERRINA 15 MONZA",
+      "Latitude": "45.58722642",
+      "Longitude": "9.30149177"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "392023118",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "39835385",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@carloporta.it",
+      "Type": 1
+    }
+  ]
+}

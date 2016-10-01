@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "E233451F-2F2C-480D-BA99-1FAE39C79EA7",
+  "Name": "ASILO NIDO SAN DONATO",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA GUARDINI ROMANO  9 MONZA",
+      "Latitude": "45.5727879",
+      "Longitude": "9.31281317"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "335 6408461",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039 2848314",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@nidosandonato.it",
+      "Type": 1
+    }
+  ]
+}

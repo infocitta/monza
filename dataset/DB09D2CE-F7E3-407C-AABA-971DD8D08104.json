@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "DB09D2CE-F7E3-407C-AABA-971DD8D08104",
+  "Name": "Infanzia - J.MirÃ²",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTE BIANCO MONZA",
+      "Latitude": "45.58184538",
+      "Longitude": "9.25958127"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic8ae005@istruzione.it",
+      "Type": 1
+    }
+  ]
+}

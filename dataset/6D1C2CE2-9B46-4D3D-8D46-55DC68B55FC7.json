@@ -1,0 +1,33 @@
+﻿{
+  "Version": 1,
+  "ID": "6D1C2CE2-9B46-4D3D-8D46-55DC68B55FC7",
+  "Name": "IL BOSCO DELLE MERAVIGLIE MONZA",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA TACCONA  16 MONZA",
+      "Latitude": "45.57910147",
+      "Longitude": "9.24563235"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "348 6095569",
+      "Type": 0
+    }
+  ]
+}

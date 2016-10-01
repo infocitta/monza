@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "7FD5F6DC-5710-404E-8D92-599A660C16CD",
+  "Name": "EFFEPI DI EFFEPI SRL",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA CEDERNA ANTONIO  38 MONZA",
+      "Latitude": "45.57932189",
+      "Longitude": "9.29726462"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039  835627",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "39835627.0",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "asiloeffepi@gmail.com",
+      "Type": 1
+    }
+  ]
+}

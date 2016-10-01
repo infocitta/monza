@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "5755B643-B277-4F5F-B10C-7B353543B19A",
+  "Name": "BIMBIINSIEME",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MAGENTA  4 MONZA",
+      "Latitude": "45.58022267",
+      "Longitude": "9.27075595"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 321533",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039 2316656",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "bimbinsieme@novomillenio.it",
+      "Type": 1
+    }
+  ]
+}

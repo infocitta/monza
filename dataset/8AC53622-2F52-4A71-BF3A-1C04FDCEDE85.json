@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "8AC53622-2F52-4A71-BF3A-1C04FDCEDE85",
+  "Name": "L'ALBERO DELLE NOCCIOLE",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTE LEGNONE  23 MONZA",
+      "Latitude": "45.58964313",
+      "Longitude": "9.2419169"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "348 2603468",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@alberodellenocciole.it",
+      "Type": 1
+    }
+  ]
+}

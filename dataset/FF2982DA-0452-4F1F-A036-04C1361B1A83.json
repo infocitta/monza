@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "FF2982DA-0452-4F1F-A036-04C1361B1A83",
+  "Name": "BABY COLLEGE",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA RAMAZZOTTI A.  28 MONZA",
+      "Latitude": "45.60156694",
+      "Longitude": "9.264044"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 9152339",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "el.motta@oxford.it",
+      "Type": 1
+    }
+  ]
+}

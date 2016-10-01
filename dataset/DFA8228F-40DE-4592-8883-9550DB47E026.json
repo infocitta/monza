@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "DFA8228F-40DE-4592-8883-9550DB47E026",
+  "Name": "L. Scientifico - -Frisi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SEMPIONE 21 MONZA",
+      "Latitude": "45.58342315",
+      "Longitude": "9.26512916"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "39235981",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "39368795",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@frisimonza.it",
+      "Type": 1
+    }
+  ]
+}

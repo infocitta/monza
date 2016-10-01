@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "8B930C59-F847-4C40-8E8D-B19DC36C8DF8",
+  "Name": "IL PIANETA DEI BAMBINI",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DE MARCHI EMILIO  18 MONZA",
+      "Latitude": "45.592698",
+      "Longitude": "9.29457803"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2310905",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "monza@ilpianetadeibambini.it",
+      "Type": 1
+    }
+  ]
+}

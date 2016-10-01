@@ -1,0 +1,22 @@
+﻿{
+  "Version": 1,
+  "ID": "D2653E34-3F79-43FE-8774-ED0D1AF26923",
+  "Name": "c.f.p. unione artigiani",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIALE LOMBARDIA 4 MONZA",
+      "Latitude": "45.58997679",
+      "Longitude": "9.25341716"
+    }
+  ],
+  "Contacts": []
+}

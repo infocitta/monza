@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "9FDEF1A3-4ED7-4A45-8AA9-61385913DE79",
+  "Name": "Infanzia - Cazzaniga",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DEBUSSY MONZA",
+      "Latitude": "45.59448145",
+      "Longitude": "9.25575185"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039386471",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic8aa00t@istruzione.it",
+      "Type": 1
+    }
+  ]
+}

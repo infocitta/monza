@@ -1,0 +1,33 @@
+﻿{
+  "Version": 1,
+  "ID": "D6862E81-5BA6-4DCB-BD5A-FA0F10BB6814",
+  "Name": "Infanzia - Papini",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MODIGLIANI 63 MONZA",
+      "Latitude": "45.58452001",
+      "Longitude": "9.30205197"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Type": 0
+    }
+  ]
+}

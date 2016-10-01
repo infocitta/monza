@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "A02F3BDA-3DF4-437E-9D0E-D13C948DB457",
+  "Name": "I. P. Servizi - Olivetti (serale)",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA LECCO 12 MONZA",
+      "Latitude": "45.5860124",
+      "Longitude": "9.28226359"
+    }
+  ],
+  "Contacts": []
+}

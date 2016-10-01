@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "B05827D0-B3B2-4272-B7EC-C376108D1F97",
+  "Name": "Primaria - Buonarroti",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola primaria",
+      "Alias": "elementare"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA PIER DELLA FRANCESCA 11 MONZA",
+      "Latitude": "45.57043198",
+      "Longitude": "9.28219147"
+    }
+  ],
+  "Contacts": []
+}

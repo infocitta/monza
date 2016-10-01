@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "CABEBCF4-A84E-46F0-A49D-D319343B6666",
+  "Name": "I.T. Tecnologico - Monza",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTEGRAPPA 1 MONZA",
+      "Latitude": "45.5680993",
+      "Longitude": "9.27072685"
+    }
+  ],
+  "Contacts": []
+}

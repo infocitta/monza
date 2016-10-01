@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "DF05663B-3E2D-4CDE-816A-A922DFCB2684",
+  "Name": "ASILO NIDO TRIANTE",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTE BIANCO  13 MONZA",
+      "Latitude": "45.58157601",
+      "Longitude": "9.25855292"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039  730178",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039  746460",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "nidotriante@comune.monza.it",
+      "Type": 1
+    }
+  ]
+}

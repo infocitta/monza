@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "E2E838AD-E626-4468-A0CF-C0D9B1373146",
+  "Name": "COLORE PASTELLO",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTANARI CARLO  3/C MONZA",
+      "Latitude": "45.57205054",
+      "Longitude": "9.23994992"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2721228",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "colorepastello@virgilio.it",
+      "Type": 1
+    }
+  ]
+}

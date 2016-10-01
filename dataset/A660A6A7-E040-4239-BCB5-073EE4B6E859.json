@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "A660A6A7-E040-4239-BCB5-073EE4B6E859",
+  "Name": "I.P.Industria e Artigianato -Monza (serale)",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTEGRAPPA 1 MONZA",
+      "Latitude": "45.5680993",
+      "Longitude": "9.27072685"
+    }
+  ],
+  "Contacts": []
+}

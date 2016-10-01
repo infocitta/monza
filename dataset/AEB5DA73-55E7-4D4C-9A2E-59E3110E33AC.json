@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "AEB5DA73-55E7-4D4C-9A2E-59E3110E33AC",
+  "Name": "BIMBURRA'",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MARSALA  64 MONZA",
+      "Latitude": "45.57437666",
+      "Longitude": "9.2572337"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "349 319059",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "fiorenza.colloridi@yahoo.it",
+      "Type": 1
+    }
+  ]
+}

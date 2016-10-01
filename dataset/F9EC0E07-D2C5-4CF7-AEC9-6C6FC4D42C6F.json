@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "F9EC0E07-D2C5-4CF7-AEC9-6C6FC4D42C6F",
+  "Name": "ASILO NIDO SAN ROCCO",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA NAZARIO SAURO MONZA",
+      "Latitude": "45.55939527",
+      "Longitude": "9.26299977"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2003013",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039  2000308",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "nidosanrocco@comune.monza.it",
+      "Type": 1
+    }
+  ]
+}

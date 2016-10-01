@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "F7FB9C7A-2DD3-4CAF-91DD-8D0170474029",
+  "Name": "Scuola Dell'infanzia Angelo Custode",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA SANTA MARGHERITA 2 MONZA",
+      "Latitude": "45.58393653",
+      "Longitude": "9.28008316"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "03483975698",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "sc.inf_angelocustode@mepas.it",
+      "Type": 1
+    }
+  ]
+}

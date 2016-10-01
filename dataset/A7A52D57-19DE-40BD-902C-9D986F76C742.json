@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "A7A52D57-19DE-40BD-902C-9D986F76C742",
+  "Name": "Scuola Dell'infanzia S. Anna",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA BUONARROTI 106 MONZA",
+      "Latitude": "45.57019173",
+      "Longitude": "9.28414867"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039835322",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "infanzia.s.anna.monza@ssgiacomoedonato.191.it",
+      "Type": 1
+    }
+  ]
+}

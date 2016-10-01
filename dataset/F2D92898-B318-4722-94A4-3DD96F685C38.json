@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "F2D92898-B318-4722-94A4-3DD96F685C38",
+  "Name": "NIDO SAN BIAGIO",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MANARA LUCIANO  10 MONZA",
+      "Latitude": "45.58857058",
+      "Longitude": "9.26462288"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 323837",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "0362 367715",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "amministrazione@sanbiagiomonza.com",
+      "Type": 1
+    }
+  ]
+}

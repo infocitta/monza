@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "2A1FBC75-0916-4D6F-BC3D-8BB06D2C732E",
+  "Name": "Collegio Villoresi San Giuseppe",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTI E TOGNETTI 10 MONZA",
+      "Latitude": "45.58960724",
+      "Longitude": "9.26571469"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039839041",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "segreteria@collegiovilloresi.it",
+      "Type": 1
+    }
+  ]
+}

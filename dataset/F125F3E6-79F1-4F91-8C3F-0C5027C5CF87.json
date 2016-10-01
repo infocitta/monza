@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "F125F3E6-79F1-4F91-8C3F-0C5027C5CF87",
+  "Name": "L'ARCA DI CICCIO PASTICCIO",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA FERRUCCI FRANCESCO  31 MONZA",
+      "Latitude": "45.57239983",
+      "Longitude": "9.30871261"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "339 6054864",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "arca.cicciopasticcio@libero.it",
+      "Type": 1
+    }
+  ]
+}

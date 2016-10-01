@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "B565AAE5-A63C-4A01-A06A-5414D7B380F6",
+  "Name": "DRILLY E COCCO AMICI DI SAN ROCCO",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilonido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MERCADANTE S.  38 MONZA",
+      "Latitude": "45.55547983",
+      "Longitude": "9.2568473"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039  2002992",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "039 2002992",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@drillyecocco.it",
+      "Type": 1
+    }
+  ]
+}

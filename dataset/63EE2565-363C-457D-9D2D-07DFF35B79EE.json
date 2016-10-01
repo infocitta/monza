@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "63EE2565-363C-457D-9D2D-07DFF35B79EE",
+  "Name": "L. Artistico - Monza Via Boccaccio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA BOCCACCIO 1 MONZA",
+      "Latitude": "45.59152897",
+      "Longitude": "9.27629859"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Fax",
+      "Value": "39324810",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "isamonza@tin.it",
+      "Type": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "F05F926F-C883-4777-B019-72B12E1D3B57",
+  "Name": "Primaria - Citterio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola primaria",
+      "Alias": "elementare"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA COLLODI  MONZA",
+      "Latitude": "45.57955824",
+      "Longitude": "9.29201032"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Fax",
+      "Value": "392026704",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "settimocircolomonza@libero.it",
+      "Type": 1
+    }
+  ]
+}

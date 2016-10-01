@@ -1,0 +1,38 @@
+﻿{
+  "Version": 1,
+  "ID": "4C437D72-3F20-4EAA-866B-7B4884890477",
+  "Name": "Infanzia - via Sauro",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA S. ALESSANDRO MONZA",
+      "Latitude": "45.55656766",
+      "Longitude": "9.26114969"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic8ah00l@istruzione.it",
+      "Type": 1
+    }
+  ]
+}

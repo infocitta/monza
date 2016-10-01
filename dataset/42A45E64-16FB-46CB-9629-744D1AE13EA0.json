@@ -1,0 +1,43 @@
+﻿{
+  "Version": 1,
+  "ID": "42A45E64-16FB-46CB-9629-744D1AE13EA0",
+  "Name": "I. P. Servizi - Olivetti",
+  "Note": "OPENDATA Regione Lombardia",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola secondaria di secondo grado",
+      "Alias": "superiori"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA LECCO 12 MONZA",
+      "Latitude": "45.5860124",
+      "Longitude": "9.28226359"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "39324627",
+      "Type": 0
+    },
+    {
+      "Title": "Fax",
+      "Value": "39323397",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "olivetti.monza@tiscalinet.it",
+      "Type": 1
+    }
+  ]
+}
